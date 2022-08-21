@@ -129,3 +129,13 @@ Nota: veja https://github.com/thomseddon/node-oauth2-server/tree/master/examples
 
 #### saveAccessToken (accessToken, clientId, expira, usuário, retorno de chamada)
 - *stri
+
+
+
+
+
+## help with node-oauth2-server project:
+ 
+- [Voltana](https://github.com/Auralytical)
+- [Alvin Deng](https://github.com/alvin319)
+- [Andy Dill](https://github.com/adill)
